@@ -116,7 +116,7 @@ set foreignlangs "kiosk|german|dutch|spanish|flemish|italian|french|czech"
 set foreigngroups "helix|vedett|wmz|ifh|backtorg|drd|awake|custodes|details|misfits|tvp|heritage|itg|zzgtv|idib|xpert_hd|d4u|zzglive|nsn|aihd|airline|oursky|r4f|sibv|epz|jmt|phoque|atlas|bawls_int|dupli|full|bawls|hto|bfhmov|tracks|shx|sinx|hybris|lips|cora|onepiece|n0l|lost|press|iboks|rough|deal|elearning|ukdhd|gtvg|boolz|tsunami|d4kid|get|aymo|czl"    
 
 # Pre with danish / swedish / norwegian / nordic subs
-set nordiclangs "danish|swedish|norwegian|nordic"
+set nordiclangs "|SWEDiSH|NORWEGiAN|DANiSH|FiNNiSH|iCELANDiC|NORDiC|"
 
 # Prefixes for announce
 set prefix_(site) "7\[PRE7\]"
